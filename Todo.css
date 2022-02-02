@@ -1,8 +1,9 @@
 body {
     font-family: Verdana, Geneva, sans-serif;
-    margin-right: 1px;
-    margin-left: 1px;
-    margin-top: 1px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
     border: 2px;
     color: blueviolet;
+    
     }
